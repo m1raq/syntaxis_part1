@@ -8,6 +8,7 @@ public class Main {
         int oilAmount = 30; // ml
         int appleCount = 8; // items
 
+//        ллялялялялл
 
         // apples - 5
         if (appleCount >= 5) {
